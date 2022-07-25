@@ -45,7 +45,7 @@
 - ⚡ Fun fact:
    - I love f1 racing 🏎️
 
-- 📫 Perssonal Website:
+- 📫 Personal Website:
    - Under construction (coming soon)
 
 ### Github Stats
