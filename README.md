@@ -39,7 +39,7 @@
 
 - 📘 Check out my research papers:
    - Google scholar [https://scholar.google.com/citations?user=a6uefbsAAAAJ&hl=en](https://scholar.google.com/citations?user=a6uefbsAAAAJ&hl=en)
-   - My prjects : coming soon
+   - My projects : coming soon
 
 
 - ⚡ Fun fact:
