@@ -32,7 +32,7 @@
    - Computer vision
 
 - 🌱 Things I’m currently learning:
-   - Apache Spark, Tableau and Azure
+   - Apache Spark, PostgreSQL, Tableau and Azure
 
 - 👬 Looking forward to collaborate on:
    - Any data science or deep learning project
