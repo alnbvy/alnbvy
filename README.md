@@ -39,7 +39,8 @@
 
 - 📘 Check out my research papers:
    - Google scholar [https://scholar.google.com/citations?user=a6uefbsAAAAJ&hl=en](https://scholar.google.com/citations?user=a6uefbsAAAAJ&hl=en)
-   - My projects : coming soon
+   - My projects : 
+     - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
 
 
 - ⚡ Fun fact:
