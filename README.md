@@ -42,7 +42,9 @@
    - My published, applied data science projects:
      - [Machine learning prediction of CO2 solubility in ionic liquid](https://doi.org/10.1016/j.eti.2021.101484)
      - [Machine learning prediction of thermal coefficient of nanosuspensions](https://doi.org/10.1007/s13204-021-01949-7)
-     - [Deep learning prediction of velocity of Cu/water nanofluid convective flow in a circular tube](https://doi.org/10.1016/j.icheatmasstransfer.2021.105373)
+     - [The prediction of velocity of Cu/water nanofluid convective flow in a circular tube using artificial intelligence](https://doi.org/10.1016/j.icheatmasstransfer.2021.105373)
+     - [Multivariate optimization of an energy plant](https://doi.org/10.1016/j.seta.2021.101419)
+     - [Wavelet analysis of particle laden turbulence](https://doi.org/10.1103/PhysRevFluids.7.044305)
    - My projects : 
      - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
 
