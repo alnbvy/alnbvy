@@ -47,6 +47,7 @@
      - [Wavelet analysis of particle laden turbulence](https://doi.org/10.1103/PhysRevFluids.7.044305)
    - My projects : 
      - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
+     - [Twitter sentiment analysis using GloVe (Natural language processing)](https://github.com/alnbvy/TwitterSentimentGloVe)
 
 
 - ⚡ Fun fact:
