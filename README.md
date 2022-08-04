@@ -52,6 +52,8 @@
 
 - ⚡ Fun fact:
    - I love f1 racing 🏎️
+- 📜 My certifications:
+   - [TensorFlow Developer Certificate](https://www.credential.net/88c12194-60f1-456d-8752-02a2b9787da2#gs.8asftp)
 
 - 📫 Personal Website:
    - Under construction (coming soon)
