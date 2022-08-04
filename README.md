@@ -48,6 +48,7 @@
    - My projects : 
      - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
      - [Twitter sentiment analysis using GloVe (Natural language processing)](https://github.com/alnbvy/TwitterSentimentGloVe)
+     - [BBC news articles classification](https://github.com/alnbvy/BBCNewsClassifier)
 
 
 - ⚡ Fun fact:
