@@ -56,6 +56,10 @@
    - I love f1 racing 🏎️
 - 📜 My certifications:
    - [TensorFlow Developer Certificate](https://www.credential.net/88c12194-60f1-456d-8752-02a2b9787da2#gs.8asftp)
+   - [Machine learning](https://www.coursera.org/account/accomplishments/verify/5R9FMK7ML39P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+   - [Deep learning](https://www.coursera.org/account/accomplishments/specialization/4AT922UGGUFY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+   - [Engineering Project Management](https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%201.pdf)
+   - [Inter-Personal Skills for Project Management (https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%202.pdf)
 
 - 📫 Personal Website:
    - Under construction (coming soon)
