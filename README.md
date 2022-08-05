@@ -49,6 +49,7 @@
      - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
      - [Twitter sentiment analysis using GloVe (Natural language processing)](https://github.com/alnbvy/TwitterSentimentGloVe)
      - [BBC news articles classification (Natural language processing)](https://github.com/alnbvy/BBCNewsClassifier)
+     - [Semantic image segmentation of pet images using Unet](https://github.com/alnbvy/OxfordPets_Unet)
 
 
 - ⚡ Fun fact:
