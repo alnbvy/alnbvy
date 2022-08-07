@@ -51,6 +51,7 @@
      - [BBC news articles classification (Natural language processing)](https://github.com/alnbvy/BBCNewsClassifier)
      - [Semantic image segmentation of pet images using Unet](https://github.com/alnbvy/OxfordPets_Unet)
      - [Image segmentation of the CamVid dataset using vgg16 and FCN8](https://github.com/alnbvy/VGG16_FCN8_CamVid)
+     - [Image classification using transfer learning (Inception V3)](https://github.com/alnbvy/InceptionV3_transfer_learning)
 
 
 - ⚡ Fun fact:
