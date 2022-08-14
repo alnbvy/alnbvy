@@ -28,14 +28,10 @@
 
 ### About Me
 
-- 🔭 Things I'm currently working on:
-   - Computer vision
+I am an aspiring data scientist with a Ph.D. in mechanical engineering. I possess proven technical skills and an academic background in computational fluid dynamics, heat transfer, statistics, numerical simulation, programming, and high-performance computing.
 
-- 🌱 Things I’m currently learning:
-   - Apache Spark, PostgreSQL, Tableau and Azure
+I am also a data science and deep learning enthusiast. I have applied many deep/machine learning approaches in my research about computational physics, fluid dynamics, nanoscience, energy transfer, and several other disciplines, publishing them in various prestigious journals. Thus, I have a deep understanding of both engineering approaches and data-driven methods, like machine learning, as my research incorporates them to solve real-world problems.
 
-- 👬 Looking forward to collaborate on:
-   - Any data science or deep learning project
 
 - 📘 Check out my research papers:
    - Google scholar [https://scholar.google.com/citations?user=a6uefbsAAAAJ&hl=en](https://scholar.google.com/citations?user=a6uefbsAAAAJ&hl=en)
@@ -46,15 +42,14 @@
      - [Multivariate optimization of an energy plant](https://doi.org/10.1016/j.seta.2021.101419)
      - [Wavelet analysis of particle laden turbulence](https://doi.org/10.1103/PhysRevFluids.7.044305)
    - My projects : 
-     - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
-     - [Twitter sentiment analysis using GloVe (Natural language processing)](https://github.com/alnbvy/TwitterSentimentGloVe)
-     - [BBC news articles classification (Natural language processing)](https://github.com/alnbvy/BBCNewsClassifier)
      - [Semantic image segmentation of pet images using Unet](https://github.com/alnbvy/OxfordPets_Unet)
      - [Image segmentation of the CamVid dataset using vgg16 and FCN8](https://github.com/alnbvy/VGG16_FCN8_CamVid)
      - [Image classification using transfer learning (Inception V3)](https://github.com/alnbvy/InceptionV3_transfer_learning)
      - [Classification and object localization of the handwritten digits](https://github.com/alnbvy/Handwritten_digitis_bounding_box)
      - [object detection of birds using MobileNet V2](https://github.com/alnbvy/Caltech_Birds_Object_Detection)
-
+     - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
+     - [Twitter sentiment analysis using GloVe (Natural language processing)](https://github.com/alnbvy/TwitterSentimentGloVe)
+     - [BBC news articles classification (Natural language processing)](https://github.com/alnbvy/BBCNewsClassifier)
 - 💻 My skills:
    - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-%FFA07A.svg?style=flat&logo=Tableau&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-3670A0?style=flat&logo=Fortran&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
@@ -66,11 +61,22 @@
    - [Engineering Project Management](https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%201.pdf)
    - [Inter-Personal Skills for Project Management](https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%202.pdf)
 
+- 🔭 Things I'm currently working on:
+   - Computer vision
+
+- 🌱 Things I’m currently learning:
+   - Apache Spark, PostgreSQL, Tableau and Azure
+
+- 👬 Looking forward to collaborate on:
+   - Any data science or deep learning project (Please feel free to contact me!)
+   
 - 📫 Personal Website:
    - Under construction (coming soon)
    
 - ⚡ Fun fact:
    - I love f1 racing 🏎️
+   - I enjoy hiking 🌴
+   
 ### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alnbvy&count_private=true&show_icons=true&count_private=true)
