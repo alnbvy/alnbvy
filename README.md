@@ -55,9 +55,9 @@
      - [Classification and object localization of the handwritten digits](https://github.com/alnbvy/Handwritten_digitis_bounding_box)
      - [object detection of birds using MobileNet V2](https://github.com/alnbvy/Caltech_Birds_Object_Detection)
 
+- 💻 My skills:
+   - [Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-- ⚡ Fun fact:
-   - I love f1 racing 🏎️
 - 📜 My certifications:
    - [TensorFlow Developer Certificate](https://www.credential.net/88c12194-60f1-456d-8752-02a2b9787da2#gs.8asftp)
    - [Machine learning](https://www.coursera.org/account/accomplishments/verify/5R9FMK7ML39P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
@@ -67,7 +67,9 @@
 
 - 📫 Personal Website:
    - Under construction (coming soon)
-
+   
+- ⚡ Fun fact:
+   - I love f1 racing 🏎️
 ### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alnbvy&count_private=true&show_icons=true&count_private=true)
