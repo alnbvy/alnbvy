@@ -56,7 +56,7 @@
      - [object detection of birds using MobileNet V2](https://github.com/alnbvy/Caltech_Birds_Object_Detection)
 
 - 💻 My skills:
-   - [Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+   - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 - 📜 My certifications:
    - [TensorFlow Developer Certificate](https://www.credential.net/88c12194-60f1-456d-8752-02a2b9787da2#gs.8asftp)
