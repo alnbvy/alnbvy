@@ -46,7 +46,7 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
      - [Image segmentation of the CamVid dataset using vgg16 and FCN8](https://github.com/alnbvy/VGG16_FCN8_CamVid)
      - [Image classification using transfer learning (Inception V3)](https://github.com/alnbvy/InceptionV3_transfer_learning)
      - [Classification and object localization of the handwritten digits](https://github.com/alnbvy/Handwritten_digitis_bounding_box)
-     - [object detection of birds using MobileNet V2](https://github.com/alnbvy/Caltech_Birds_Object_Detection)
+     - [Object detection of birds using MobileNet V2](https://github.com/alnbvy/Caltech_Birds_Object_Detection)
      - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
      - [Twitter sentiment analysis using GloVe (Natural language processing)](https://github.com/alnbvy/TwitterSentimentGloVe)
      - [BBC news articles classification (Natural language processing)](https://github.com/alnbvy/BBCNewsClassifier)
