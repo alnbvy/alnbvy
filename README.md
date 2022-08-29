@@ -58,6 +58,7 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
    - [TensorFlow Developer Certificate](https://www.credential.net/88c12194-60f1-456d-8752-02a2b9787da2#gs.8asftp)
    - [Machine learning](https://www.coursera.org/account/accomplishments/verify/5R9FMK7ML39P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
    - [Deep learning](https://www.coursera.org/account/accomplishments/specialization/4AT922UGGUFY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+   - [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/76b67d6a025991ce17093cf8f0252dc9f9f03c5d4021fedfbf8e353166dd471d?trk=share_certificate)
    - [MySQL Advanced Topics](https://www.linkedin.com/learning/certificates/7117a5aba7805efe46f36280e455c67c66b71dd31f2664f99b3822054fb80988?u=70944002)
    - [Engineering Project Management](https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%201.pdf)
    - [Inter-Personal Skills for Project Management](https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%202.pdf)
