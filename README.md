@@ -64,10 +64,10 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
    - [Inter-Personal Skills for Project Management](https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%202.pdf)
 
 - 🔭 Things I'm currently working on:
-   - Computer vision
+   - Computer vision (Kaggle projects)
 
 - 🌱 Things I’m currently learning:
-   - Apache Spark (Databricks), PostgreSQL, Tableau and Azure
+   - Apache Spark (Databricks), PostgreSQL, Tableau, AWS and Azure
 
 - 👬 Looking forward to collaborate on:
    - Any data science or deep learning project (Please feel free to contact me!)
