@@ -79,6 +79,6 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
    - I love f1 racing 🏎️
    - I enjoy hiking 🌴
    
-### Github Stats
+### Github Stat
 
 ![](https://github-readme-stats.vercel.app/api?username=alnbvy&count_private=true&show_icons=true&count_private=true)
