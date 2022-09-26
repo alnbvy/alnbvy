@@ -76,8 +76,8 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
    - Under construction (coming soon)
    
 - ⚡ Fun fact:
-   - I love f1 racing 🏎️
-   - I enjoy hiking 🌴
+   -I love f1 racing 🏎️
+   -I enjoy hiking 🌴
    
 ### Github Stat
 
