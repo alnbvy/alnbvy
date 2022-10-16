@@ -65,6 +65,9 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
 - 📖 Highlited courses:
    - [Machine learning](https://www.coursera.org/account/accomplishments/verify/5R9FMK7ML39P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
    - [Deep learning](https://www.coursera.org/account/accomplishments/specialization/4AT922UGGUFY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+   - [IBM Data Science](https://coursera.org/share/565032f5a0ba88a2dda7e1b7820cd44a)
+   - [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/8c0e7a4799c13e9b7b541625888b86f4)
+   - [TensorFlow: Advanced Techniques](https://coursera.org/share/ba182f7dc584d703a6f08004fd8db53c)
    
 - 🔭 Things I'm currently working on:
    - Computer vision (Kaggle projects)
