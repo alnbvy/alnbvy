@@ -58,6 +58,7 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
 - 📜 My certifications:
    - [AWS Certified Machine Learning - Specialty (MLS)](https://www.credly.com/badges/f77f5b7c-75be-439f-b711-b09527f50e4f/public_url) 
    - [TensorFlow Developer Certificate](https://www.credential.net/88c12194-60f1-456d-8752-02a2b9787da2#gs.8asftp)
+   - [IBM Data Science Professional Certificate](https://www.credly.com/badges/dc23a87d-5449-4b99-9e94-35880b22a1cc/public_url)
    - [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/76b67d6a025991ce17093cf8f0252dc9f9f03c5d4021fedfbf8e353166dd471d?trk=share_certificate)
    - [MySQL Advanced Topics](https://www.linkedin.com/learning/certificates/7117a5aba7805efe46f36280e455c67c66b71dd31f2664f99b3822054fb80988?u=70944002)
    - [Engineering Project Management](https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%201.pdf)
