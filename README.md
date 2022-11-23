@@ -56,8 +56,8 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-%FFA07A.svg?style=flat&logo=Tableau&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-3670A0?style=flat&logo=Fortran&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 
 - 📜 My certifications:
+   - [AWS Certified Machine Learning - Specialty (MLS)](https://www.credly.com/badges/f77f5b7c-75be-439f-b711-b09527f50e4f/public_url) 
    - [TensorFlow Developer Certificate](https://www.credential.net/88c12194-60f1-456d-8752-02a2b9787da2#gs.8asftp)
-
    - [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/76b67d6a025991ce17093cf8f0252dc9f9f03c5d4021fedfbf8e353166dd471d?trk=share_certificate)
    - [MySQL Advanced Topics](https://www.linkedin.com/learning/certificates/7117a5aba7805efe46f36280e455c67c66b71dd31f2664f99b3822054fb80988?u=70944002)
    - [Engineering Project Management](https://github.com/alnbvy/alnbvy/blob/main/Pro%20EPICS%20Certificate%20Miralireza%20Nabavi%20Bavil%201.pdf)
