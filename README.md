@@ -28,7 +28,7 @@
 
 ### About Me
 
-I am an aspiring data scientist with a Ph.D. in mechanical engineering. I possess proven technical skills and an academic background in computational fluid dynamics, heat transfer, statistics, numerical simulation, programming, and high-performance computing.
+I am an AWS certified machine learning engineer with a Ph.D. in mechanical engineering. I possess proven technical skills and an academic background in computational fluid dynamics, heat transfer, statistics, numerical simulation, programming, and high-performance computing.
 
 I am also a data science and deep learning enthusiast. I have applied many deep/machine learning approaches in my research about computational physics, fluid dynamics, nanoscience, energy transfer, and several other disciplines, publishing them in various prestigious journals. Thus, I have a deep understanding of both engineering approaches and data-driven methods, like machine learning, as my research incorporates them to solve real-world problems.
 
