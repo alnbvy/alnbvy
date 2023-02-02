@@ -41,17 +41,19 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
      - [The prediction of velocity of Cu/water nanofluid convective flow in a circular tube using artificial intelligence](https://doi.org/10.1016/j.icheatmasstransfer.2021.105373)
      - [Multivariate optimization of an energy plant](https://doi.org/10.1016/j.seta.2021.101419)
      - [Wavelet analysis of particle laden turbulence](https://doi.org/10.1103/PhysRevFluids.7.044305)
-   - My projects : 
+   - My end to end data science projects : 
+     - [Preventing bank customer churn](https://github.com/alnbvy/Bank_Customer_Churn_Prediction)
+     - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
+     - [Machine learning prediction of Space X Falcon 9 landing](https://github.com/alnbvy/SpaceX_ML_prediction)
+     - [Machine Learning Analysis of Heart Diseases](https://github.com/alnbvy/Heart)
+   - My deep learning projects : 
      - [Semantic image segmentation of pet images using Unet](https://github.com/alnbvy/OxfordPets_Unet)
      - [Image segmentation of the CamVid dataset using vgg16 and FCN8](https://github.com/alnbvy/VGG16_FCN8_CamVid)
      - [Image classification using transfer learning (Inception V3)](https://github.com/alnbvy/InceptionV3_transfer_learning)
      - [Classification and object localization of the handwritten digits](https://github.com/alnbvy/Handwritten_digitis_bounding_box)
      - [Object detection of birds using MobileNet V2](https://github.com/alnbvy/Caltech_Birds_Object_Detection)
-     - [Machine learning prediction of the price of used cars](https://github.com/alnbvy/UsedCarPrice)
      - [Twitter sentiment analysis using GloVe (Natural language processing)](https://github.com/alnbvy/TwitterSentimentGloVe)
      - [BBC news articles classification (Natural language processing)](https://github.com/alnbvy/BBCNewsClassifier)
-     - [Machine learning prediction of Space X Falcon 9 landing](https://github.com/alnbvy/SpaceX_ML_prediction)
-     - [Machine Learning Analysis of Heart Diseases](https://github.com/alnbvy/Heart)
 - 💻 My skills:
    - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-%FFA07A.svg?style=flat&logo=Tableau&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-3670A0?style=flat&logo=Fortran&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
