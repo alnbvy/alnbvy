@@ -79,7 +79,7 @@ I am also a data science and deep learning enthusiast. I have applied many deep/
    - Computer vision (Kaggle projects)
 
 - 🌱 Things I’m currently learning:
-   - Apache Spark (Databricks), PostgreSQL, DataBricks, Tableau and Azure
+   - AWS, Apache Spark (Databricks), PostgreSQL, DataBricks, Tableau and Azure
 
 - 👬 Looking forward to collaborate on:
    - Any data science, deep learning or machine learning project (Please feel free to contact me!)
