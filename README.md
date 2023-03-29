@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miralireza Nabavi</h1>
-<h3 align="center">Data scientist and machine learning engineer</h3>
+<h3 align="center">Data scientist at Dick's Sporting Goods</h3>
+<h3 align="center">machine learning engineer</h3>
 <h3 align="center">Ph.D in mechanical engineering</h3>
 
 <br>
