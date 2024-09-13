@@ -28,9 +28,9 @@
 
 ### About Me
 
-I am an AWS certified machine learning engineer with a Ph.D. in mechanical engineering. I possess proven technical skills and an academic background in computational fluid dynamics, heat transfer, statistics, numerical simulation, programming, and high-performance computing.
+I am an AWS-certified machine learning engineer with a Ph.D. from Arizona State University. My professional journey has been marked by a continuous drive for learning and a passion for leveraging data to solve complex problems. I excel in building and productionalizing machine learning models, developing robust data pipelines, and driving impactful business decisions.
 
-I am also a data science and deep learning enthusiast. I have applied many deep/machine learning approaches in my research about computational physics, fluid dynamics, nanoscience, energy transfer, and several other disciplines, publishing them in various prestigious journals. Thus, I have a deep understanding of both engineering approaches and data-driven methods, like machine learning, as my research incorporates them to solve real-world problems.
+Throughout my work, I’ve never stopped learning to better myself. I get involved and genuinely care about the short and long-term success of my team, customer, and product portfolio. It is this positive attitude and drive, along with great mentors, that have propelled my success in my career and will continue in the future.
 
 
 - 📘 Check out my research papers:
